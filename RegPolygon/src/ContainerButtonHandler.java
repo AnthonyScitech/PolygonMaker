@@ -1,9 +1,6 @@
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-// ContainerButtonHandler class for CE203 Assignment to use and modify if needed
-// Date: 11/11/2022
-// Author: F. Doctor
 
 class ContainerButtonHandler implements ActionListener {
     ContainerFrame theApp;   // Reference to ContainerFrame object
