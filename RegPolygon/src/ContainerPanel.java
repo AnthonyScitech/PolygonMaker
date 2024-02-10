@@ -4,9 +4,7 @@ import java.awt.Graphics2D;
 import java.awt.Dimension;
 
 
-// ContainerPanel class for CE203 Assignment to use and modify if needed
-// Date: 04/11/2023
-// Author: F. Doctor
+
 
 public class ContainerPanel extends JPanel{
 
