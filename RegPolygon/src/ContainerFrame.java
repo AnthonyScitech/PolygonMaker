@@ -3,12 +3,7 @@ import java.awt.*;
 import java.util.*;
 import java.util.List;
 
-// ContainerFrame class for CE203 Assignment to use and modify if needed
-// Date: 04/11/2023
-// Author: F. Doctor
 
-// A skeleton JFrame class has been provided which you would need to modifiy to include the other GUI components
-// data structre and functionality specified in the assignment specification
 public class ContainerFrame extends JFrame{
 
     JTextField regNoField,noOfSidesField,startAngleField,radiusField;  // fields used to collect data from users
