@@ -2,9 +2,7 @@ import java.awt.*;
 import java.util.Random;
 
 
-// Incomplete PolygonContainer class for CE203 Assignment
-// Date: 04/11/2023
-// Author: F. Doctor
+
 
 public class RegPolygon implements Comparable<RegPolygon>{
 
